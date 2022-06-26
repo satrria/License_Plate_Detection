@@ -1,10 +1,10 @@
 # License Plate Detection and OCR(Optical Character Recognition
-> Using Machine Learning and AI to detect and identify license plate number
+> Menggunakan Pembelajaran Mesin dan AI untuk mendeteksi dan mengidentifikasi nomor plat
 
 ## General info
 
-By employing Tensorflow, Google Colab and Tesseract license plate number can be extracted from the input image in text string format.  
-Object Detection API is used to extract the bounding box for license plate  
+Dengan menggunakan Tensorflow, nomor plat Google Colab dan Tesseract dapat diekstraksi dari gambar input dalam format string teks.
+API Deteksi Objek digunakan untuk mengekstrak kotak pembatas untuk plat nomor
 
 ## Screenshots  
 
